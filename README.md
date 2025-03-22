@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Ramawatar
-- 👀 I’m interested in Ai
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on computer science
-- 📫 How to reach me email
+🚀 Ramawatar Bhakar – The Code Alchemist 🧑‍💻
+👋 Hey there! I’m @Ramawatar, a tech enthusiast who turns coffee into code ☕💻.
+👀 What am I into? AI, MERN stack, and debugging my own life decisions.
+🌱 Currently growing in: Computer Science & MERN Stack (React, Node.js, Express, MongoDB)
+💞 Looking to collaborate on: Anything that involves JavaScript magic ✨
+🤖 Fun fact: My code runs faster than my Wi-Fi.
 
-<!---
-Ramawatarji/Ramawatarji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Tech Stack:
+🚀 Frontend: React, HTML, CSS, JavaScript
+🛠️ Backend: Node.js, Express.js
+🗄️ Database: SQL, MongoDB
+🔧 Tools: GitHub, Redux, Postman
 
+📫 How to reach me:
+📩 Email: rramotarbhakar@gmail.com
+🔗 LinkedIn: Ramawatar Bhakar
+🐙 GitHub: ramawatarbhakar
